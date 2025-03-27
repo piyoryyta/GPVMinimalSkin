@@ -5,3 +5,19 @@
 .controller.disconnected {
     opacity: 0.5 !important;
 }
+
+.touchpad.pressed {
+    background: url(ps4-assets/touchpad.svg) no-repeat center;
+}
+
+.face {
+    background: url(ps4-assets/dpad.svg);
+}
+
+.button {
+    background: url(ps4-assets/face.svg);
+}
+
+.stick {
+    background: url(ps4-assets/sticks.svg);
+}
