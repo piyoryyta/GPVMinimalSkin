@@ -2,22 +2,22 @@
     background: url(base.svg) !important;
 }
 
-.controller.disconnected {
-    opacity: 0.5 !important;
+.ds4 .controller .disconnected {
+    opacity: 0 !important;
 }
 
-.touchpad.pressed {
-    background: url(touchpad.svg) no-repeat center !important;
+.ds4 .touchpad.pressed {
+    background: url(touchpad.svg) no-repeat center;
 }
 
-.face {
-    background: url(dpad.svg) !important;
+.ds4 .face {
+    background: url(dpad.svg);
 }
 
-.button {
-    background: url(face.svg) !important;
+.ds4 .button {
+    background: url(face.svg);
 }
 
-.stick {
-    background: url(sticks.svg) !important;
+.ds4 .stick {
+    background: url(sticks.svg);
 }
