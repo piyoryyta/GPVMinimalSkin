@@ -1,0 +1,7 @@
+.controller {
+    background: url(base.svg) !important;
+}
+
+.controller.disconnected {
+    opacity: 0.5 !important;
+}
