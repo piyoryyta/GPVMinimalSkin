@@ -14,23 +14,23 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview3342"
-     pagecolor="#ffffff"
+     pagecolor="#cd00c2"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.0014715"
-     inkscape:cx="2.9955918"
-     inkscape:cy="67.900082"
+     inkscape:zoom="2"
+     inkscape:cx="56.5"
+     inkscape:cy="59.5"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Layer_1" />
+     inkscape:current-layer="g3339" />
   <defs
      id="defs3255">
     <style
@@ -149,78 +149,78 @@
   </g>
   <g
      id="g3339"
-     style="fill:none;stroke:#000000;stroke-opacity:0.60000002">
+     style="fill:#808080;stroke:#1a1a1a;stroke-opacity:1;fill-opacity:1">
     <g
        id="g3307"
-       style="fill:none;stroke:#000000;stroke-opacity:0.60000002">
+       style="fill:#808080;stroke:#1a1a1a;stroke-opacity:1;fill-opacity:1">
       <g
          id="g3303"
-         style="fill:none;stroke:#000000;stroke-opacity:0.60000002">
+         style="fill:#808080;stroke:#1a1a1a;stroke-opacity:1;fill-opacity:1">
         <path
            class="cls-7"
            d="M83.8,53.5A26.25,26.25,0,1,1,110,27.2,26.33,26.33,0,0,1,83.8,53.5Z"
            id="path3299"
-           style="fill:none;stroke:#000000;stroke-opacity:0.60000002" />
+           style="fill:#808080;stroke:#1a1a1a;stroke-opacity:1;fill-opacity:1" />
       </g>
       <path
          class="cls-9"
          d="M83.8,8.4a18.9,18.9,0,1,0,18.9,18.9A18.95,18.95,0,0,0,83.8,8.4Zm0,34.9a16,16,0,1,1,16-16A16,16,0,0,1,83.8,43.3Z"
          id="path3305"
-         style="fill:#000000;stroke:none;stroke-opacity:0.60000002;fill-opacity:0.60000002" />
+         style="fill:#cccccc;stroke:none;stroke-opacity:1;fill-opacity:1" />
     </g>
     <g
        id="g3317"
-       style="fill:none;stroke:#000000;stroke-opacity:0.60000002">
+       style="fill:#808080;stroke:#1a1a1a;stroke-opacity:1;fill-opacity:1">
       <g
          id="g3313"
-         style="fill:none;stroke:#000000;stroke-opacity:0.60000002">
+         style="fill:#808080;stroke:#1a1a1a;stroke-opacity:1;fill-opacity:1">
         <path
            class="cls-7"
            d="M27.2,53.5A26.25,26.25,0,1,1,53.5,27.3,26.29,26.29,0,0,1,27.2,53.5Z"
            id="path3309"
-           style="fill:none;stroke:#000000;stroke-opacity:0.60000002" />
+           style="fill:#808080;stroke:#1a1a1a;stroke-opacity:1;fill-opacity:1" />
       </g>
       <polygon
          class="cls-10"
          points="41.6 14.9 39.6 12.9 27.3 25.2 14.9 12.9 12.9 14.9 25.2 27.2 12.9 39.6 14.9 41.6 27.3 29.3 39.6 41.6 41.6 39.6 29.3 27.2 41.6 14.9"
          id="polygon3315"
-         style="fill:#000000;stroke:none;stroke-opacity:0.60000002;fill-opacity:0.60000002" />
+         style="fill:#cccccc;stroke:none;stroke-opacity:1;fill-opacity:1" />
     </g>
     <g
        id="g3327"
-       style="fill:none;stroke:#000000;stroke-opacity:0.60000002">
+       style="fill:#808080;stroke:#1a1a1a;stroke-opacity:1;fill-opacity:1">
       <g
          id="g3323"
-         style="fill:none;stroke:#000000;stroke-opacity:0.60000002">
+         style="fill:#808080;stroke:#1a1a1a;stroke-opacity:1;fill-opacity:1">
         <path
            class="cls-7"
            d="M140.3,54.2A26.25,26.25,0,1,1,166.6,28,26.23,26.23,0,0,1,140.3,54.2Z"
            id="path3319"
-           style="fill:none;stroke:#000000;stroke-opacity:0.60000002" />
+           style="fill:#808080;stroke:#1a1a1a;stroke-opacity:1;fill-opacity:1" />
       </g>
       <path
          class="cls-11"
          d="M151.8,13.5H126V42.1h28.6V13.5Zm0,25.9h-23v-23h23Z"
          id="path3325"
-         style="fill:#000000;stroke:none;stroke-opacity:0.60000002;fill-opacity:0.60000002" />
+         style="fill:#cccccc;stroke:none;stroke-opacity:1;fill-opacity:1" />
     </g>
     <g
        id="g3337"
-       style="fill:none;stroke:#000000;stroke-opacity:0.60000002">
+       style="fill:#808080;stroke:#1a1a1a;stroke-opacity:1;fill-opacity:1">
       <g
          id="g3333"
-         style="fill:none;stroke:#000000;stroke-opacity:0.60000002">
+         style="fill:#808080;stroke:#1a1a1a;stroke-opacity:1;fill-opacity:1">
         <path
            class="cls-7"
            d="M196.7,54.8A26.3,26.3,0,1,1,223,28.6,26.33,26.33,0,0,1,196.7,54.8Z"
            id="path3329"
-           style="fill:none;stroke:#000000;stroke-opacity:0.60000002" />
+           style="fill:#808080;stroke:#1a1a1a;stroke-opacity:1;fill-opacity:1" />
       </g>
       <path
          class="cls-12"
          d="M212.7,36.6,196.7,9l-16,27.6-1.6,2.8h35.2Zm-15.9,0H184.1l12.7-21.9,12.7,21.9Z"
          id="path3335"
-         style="fill:#000000;stroke:none;stroke-opacity:0.60000002;fill-opacity:0.60000002" />
+         style="fill:#cccccc;stroke:none;stroke-opacity:1;fill-opacity:1" />
     </g>
   </g>
 </svg>
